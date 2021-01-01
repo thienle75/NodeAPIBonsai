@@ -31,5 +31,7 @@
 ### Create upsertUser function to upsert user into database. Create a syncUsers to sync even user to local database
 
 ## Unit Test
-
+- Create Product
+- Upsert Product
+- Upsert User
 
